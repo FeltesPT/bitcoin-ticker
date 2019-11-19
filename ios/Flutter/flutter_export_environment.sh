@@ -2,7 +2,7 @@
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/tiagodias/Developer/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/tiagodias/Library/Mobile Documents/com~apple~CloudDocs/Documents/Flutter/bitcoin-ticker"
-export "FLUTTER_TARGET=lib/main.dart"
+export "FLUTTER_TARGET=/Users/tiagodias/Library/Mobile Documents/com~apple~CloudDocs/Documents/Flutter/bitcoin-ticker/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/tiagodias/Developer/flutter/bin/cache/artifacts/engine/ios"
